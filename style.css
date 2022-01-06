@@ -1,0 +1,241 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+	font-weight: 400;
+}
+.mission-area{
+    display: flex;  
+	color: #000000;
+}
+.header-area{
+    width: 40%;
+	margin-left: 5%;
+	margin-right: 5%;  
+}
+p{	
+	color: #6e6e6e;
+}
+.header-area img{
+    width: 65%;
+}
+.left-area1{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.border{
+    padding-left: 5px;
+    border-left: 4px solid;
+    border-color: tomato;
+    border-radius: 3px 3px 3px 3px;
+	border-image-slice: 1;
+}
+h1{
+	margin: 10px 0;
+    font-size: 50px;
+    margin-left: 10px;
+}
+h1 span {
+	display: block;
+}
+.orange{
+    color: orange;
+}
+.link-item{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.link{
+    padding: 15px 40px;
+    border: none;
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    border-radius: 5px;
+    margin-top: 100px;   
+}
+.section-area{
+    margin-bottom: 80px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.flexible-item{
+    display: flex;
+    justify-content: center; 
+}
+.mission{
+    background-color: paleturquoise;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 15px;
+}
+.vission{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.goale{
+    background-color: wheat;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 15px;
+}
+.mission img{
+    width: 40%;
+}
+.vission img{
+    width: 40%;
+}
+.goale img{
+    width: 40%;
+}
+.developer{
+    display: flex; 
+    margin-bottom: 80px;
+}
+h4{
+    font-size: 30px;
+    margin: 5px 0;
+}
+.header-area1{
+	width: 40%;	
+}
+.header-area1 .images{
+	margin-left: 120px;
+	width: 70%;
+}
+.header-area2{
+	width: 40%;
+	margin-left: 20px;
+}
+.header-area2 .images{
+	margin-left: 120px;
+	width: 70%;
+}
+.glober-area1{
+	width: 40%;
+	margin-left: 120px;
+}
+.glober-area2 .images{
+	margin-left: 120px;
+	width: 70%;
+}
+.glober-area2{
+	width: 40%;	
+}
+.glober-area2 .images{
+	margin-left: 120px;
+	width: 70%;
+}
+
+
+.Services-Area {
+	background-image: url(images/assets/back.png);
+	background-repeat: no-repeat;
+	overflow: hidden;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.left-area {
+	width: 50%;
+	float: left;
+	margin-top: 33%;
+	margin-bottom: 20%;
+}
+.left-area .h6 {
+	background-color: #e6e7e9;
+	border: 1px solid #e6e7e9;
+	color: #6c757d;
+	padding: 5px 12px;
+	font-size: 12px;
+	font-weight: 600;
+	display: inline-block;
+	border-radius: .25rem;
+	box-sizing: border-box;
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+.left-area .business {
+	font-size: 2.5rem;
+	margin-bottom: 1.5rem;
+	margin-top: 0;
+	box-sizing: border-box;
+}
+.left-area .title-line {
+	width: 30px;
+	height: 2px;
+	background-color: #106fde;
+	margin-bottom: 1.5rem;
+}
+.left-area .text-muted {
+	color: #84869a;
+	padding-bottom: .5rem;
+	margin-bottom: 1.5rem ;
+	margin-top: 0;
+	line-height: 1.6;
+	font-size: 14.4px;
+	width: 70%;
+}
+.left-area .btn {
+	text-decoration: none;
+	background-color: #106fde;
+	border: 1px solid #106fde; 
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 0.6px;
+	padding: 12px 16px;
+	transition: all 0.6s ease-in-out;
+	color: #FFF;
+	border-radius: .25rem;
+	outline: none;
+	display: inline-block;
+}
+.right-area {
+	width: 50%;
+	float: left;
+	margin-bottom: 12%;
+}
+.right-area .ra img {
+	width: 250px;
+	float: left;
+	margin-left: 40px;
+	margin-right: 30px;
+	margin-top: 60%;
+	margin-bottom: 20%;
+	border-radius: .25rem;	
+}
+.right-area .rb img {
+	width: 250px;
+	float: left;
+	margin-top: 50%;
+	margin-bottom: 30px;
+	border-radius: .25rem;	
+}
+.right-area .rc img {
+	width: 250px;
+	float: left;
+	border-radius: .25rem;
+}
+
+footer{
+    text-align: center;   
+}
+.hard-work{
+    padding-top: 30px;
+    padding-bottom: 35px;
+    color: white;
+    background-color: black;
+}
+.tomato-color{
+	color: tomato;
+}
